@@ -7,12 +7,12 @@ Just how I think this exercise to continue short and concise:
 
 2.) We should write python codes to the Website functions (Questions & Answers)
 
-3.) Test together the Database, Server and all backen functions (even so debugging)
+3.) Test together the Database, Server and all backend functions (even so debugging)
 
 4.) Bonuspart: Try to create some Frontend development with Javascript, Html and maybe some CSS
 
 
-It would be a nice exercise to create together a little bit beginner full-stack task :))
+It would be a nice exercise to create together a little bit this beginner full-stack task :))
 
 Nice to meet you and thank you very much for your helpful teaching and collaboration!
 
