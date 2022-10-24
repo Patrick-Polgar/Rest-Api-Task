@@ -13,12 +13,12 @@ client = MongoClient(
 
 mydb = client['mydatabase']
 
-
+# this is a GET method here (we can look this in the webbrowser)
 @Rest_Api_app.route("/users", methods=["GET"])
 def get_users_function():
     return jsonify({"name": " Patrik Polgar "})
 
-
+# this is a POST method here (we can look this with the postman)
 @Rest_Api_app.route("/questions", methods=["POST"])
 def save_question_function():
     collection_name = mydb["Questions"]
