@@ -7,7 +7,7 @@ from pymongo import MongoClient
 
 # here we create a object from Flask class
 Rest_Api_app = Flask(__name__)
-
+#this the private mongodb server here
 client = MongoClient(
     "mongodb+srv://patrik1003:Super_Secret-007@cluster0.q68jswv.mongodb.net/?retryWrites=true&w=majority")
 
